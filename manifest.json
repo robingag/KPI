@@ -1,0 +1,22 @@
+{
+    "name": "e-Trak Meetings",
+    "short_name": "e-Trak",
+    "description": "Rappels de rencontres e-Trak — 15 min avant",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0a1e36",
+    "theme_color": "#145090",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
