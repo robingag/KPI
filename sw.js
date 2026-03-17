@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gryb-meetings-v3';
+const CACHE_NAME = 'kpi-v1';
 const urlsToCache = ['/', '/index.html', '/manifest.json'];
 
 self.addEventListener('install', event => {
